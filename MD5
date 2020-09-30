@@ -1,0 +1,9 @@
+af4ec94e8caecd26bc18b30bba988b4c *DESCRIPTION
+04eda5d5896cfcf9845d5e190af140eb *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+4bf76bf1e0024938f8fc767e5d940ccb *R/img_intensify.R
+7a0c0074e9f5881453d8110018303565 *R/intense_dependency.R
+d7a2be1f71a792fb857d280c35e89ae6 *README.md
+09f9877e4eba9de7c95a62ea38ff9b9a *inst/intense-images/intense.min.js
+7466c481857d6c1ad2d6d65352bd1cf0 *man/html-dependencies.Rd
+746dbba4c5a187015ed63c85e5b02b90 *man/img_intensify.Rd
